@@ -44,7 +44,7 @@ Based on these conditions, the Arduino controls the motors through a motor drive
 ## Circuit Diagram
 The circuit diagram below shows the connections between the Arduino Uno, IR sensors, motor driver, and DC motors used in the line-following car.
 
-![Circuit Diagram](images/circuit_diagram.png)
+![Circuit Diagram](images/circut_diagram.png)
 
 ---
 ## Control Logic
